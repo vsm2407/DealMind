@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "company": "TechNova",
+    "industry": "Healthcare",
+    "deal_value": 85000,
+    "stage": "Proposal",
+    "health": "At Risk",
+    "decision_maker": "CTO",
+    "last_interaction": "Customer raised concerns about migration complexity.",
+    "next_meeting": "2026-10-02",
+    "competitor": "Salesforce"
+  },
+  {
+    "id": 2,
+    "company": "FinEdge",
+    "industry": "Financial Services",
+    "deal_value": 120000,
+    "stage": "Negotiation",
+    "health": "Healthy",
+    "decision_maker": "VP of Engineering",
+    "last_interaction": "Customer requested a security and compliance review.",
+    "next_meeting": "2026-10-04",
+    "competitor": "Microsoft"
+  },
+  {
+    "id": 3,
+    "company": "RetailFlow",
+    "industry": "Retail",
+    "deal_value": 65000,
+    "stage": "Discovery",
+    "health": "Healthy",
+    "decision_maker": "Head of Technology",
+    "last_interaction": "Customer showed interest in analytics and automation.",
+    "next_meeting": "2026-10-06",
+    "competitor": "HubSpot"
+  }
+]
